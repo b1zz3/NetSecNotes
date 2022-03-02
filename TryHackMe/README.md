@@ -1,1 +1,1 @@
-This folder contains write-ups, notes, code/scripting from CTFs and challenges from TryHackMe.com
+This folder contains write-ups, notes, code/scripting duringTryHackMe.com 's CTFs and Challenges.
