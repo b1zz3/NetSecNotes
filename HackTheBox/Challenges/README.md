@@ -1,1 +1,1 @@
-This folder contain write-ups and code/scripting for challenges from HacktheBox.eu
+This folder contain write-ups, notes, code/scripting during challenges from HacktheBox.eu
