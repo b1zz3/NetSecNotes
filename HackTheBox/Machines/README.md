@@ -1,1 +1,1 @@
-Folder contains write-ups and script/code from HacktheBox.eu CTFs
+This folder contains write-ups, notes, code/scripting during HacktheBox.eu 's CTFs.
